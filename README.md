@@ -210,3 +210,8 @@ $  python3 manage.py createsuperuser
 - [x] Student View Result
 - [x] Change all links to be dynamic
 - [x] Code Restructure - Very Important
+
+<img width="1920" height="924" alt="Screenshot from 2025-12-17 17-22-00" src="https://github.com/user-attachments/assets/ae375871-c988-46b6-9f2a-d1603901b4e1" />
+<img width="1920" height="929" alt="Screenshot from 2025-12-17 17-20-38" src="https://github.com/user-attachments/assets/a66c51d4-a48b-497e-a97d-6829c486b2c4" />
+<img width="1920" height="928" alt="Screenshot from 2025-12-17 17-21-44" src="https://github.com/user-attachments/assets/b407d0d0-e7a1-4ba1-92dd-fa028a88e761" />
+<img width="1920" height="930" alt="Screenshot from 2025-12-17 17-20-04" src="https://github.com/user-attachments/assets/0460281b-468f-4f72-b84d-77bfe9189bb9" />
