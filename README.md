@@ -1,5 +1,5 @@
 # College Enterprise Resource Planner
-This is a College Enterprise Resource Planner Developed by me and my project partners for my college.
+This is a College Enterprise Resource Planner Developed by me for my college.
 We use Python/Django Framwork for building an fully functional web application. (If facing problem!! : put discussion)
 ## Deployed at <a href="https://syncx.pythonanywhere.com" target="_blank" rel="SIGCE"><span> SIGCE</span></a>   v1.1.0
 
@@ -115,7 +115,7 @@ $  source bin/activate
 
 **3. Clone this project**
 ```
-$  git clone https://github.com/Ansarimajid/College-ERP.git
+$  git clone https://github.com/priyanshubirlaa/college_ERP.git
 ```
 
 Then, Enter the project
